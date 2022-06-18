@@ -2,12 +2,9 @@
 
           
 
-https://user-images.githubusercontent.com/53664496/174451066-705b3db4-943e-41d4-a5ef-7ffd2c0e87ee.mp4
+[![Watch the video](https://youtu.be/OKc0SQY3cuI )
 
-
-in case vedio does't play use this link --> https://drive.google.com/file/d/1icNxQv4DtK6vEum0Fff8N2oR1ntxhT2a/view?usp=sharing 
-
-                                                  
+                                    
 
            
 Head pose estimation means find (yaw, pitch, roll) angeles of head during motion.
