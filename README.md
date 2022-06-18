@@ -7,7 +7,7 @@
                                     
 
            
-Head pose estimation means find (yaw, pitch, roll) angeles of head during motion.
+Head pose estimation means finding (yaw, pitch, roll) Angeles of the head during motion.
 
 - In this project i worked on **AFLW2000** dataset that contains traing images. Each image has two format (.jpg and .mat).
 - **.mat** files contains meta data about corresponds **.jpg**, such as:
