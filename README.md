@@ -5,6 +5,8 @@
 https://user-images.githubusercontent.com/53664496/174451066-705b3db4-943e-41d4-a5ef-7ffd2c0e87ee.mp4
 
 
+in case vedio does't play use this link --> https://drive.google.com/file/d/1icNxQv4DtK6vEum0Fff8N2oR1ntxhT2a/view?usp=sharing 
+
                                                   
 
            
@@ -37,7 +39,7 @@ Head pose estimation means find (yaw, pitch, roll) angeles of head during motion
   5.  **XGBoostRegressor**
   6.  **pandas**
   7.  **numpy**
-  2
+  
 
 https://user-images.githubusercontent.com/53664496/174451171-752ab062-d378-4260-b17a-b7c2c7f1185d.mp4
 
